@@ -1,4 +1,4 @@
-# sp-call-centre-portal
+# ac-vehicle-loan-react
 AC react redux vehicle loan application.
 
 ## Instructions
@@ -13,8 +13,8 @@ AC react redux vehicle loan application.
  - $ npm run test
 
 ## Implementation Screen Shots 
-[[app/images/1.png]]
-[[app/images/2.png]]
-[[app/images/3.png]]
-[[app/images/4.png]]
-[[app/images/5.png]] 
+![alt text](app/images/1.png)
+![alt text](app/images/2.png)
+![alt text](app/images/3.png)
+![alt text](app/images/4.png)
+![alt text](app/images/5.png)
