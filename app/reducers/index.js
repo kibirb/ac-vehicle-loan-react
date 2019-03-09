@@ -1,5 +1,3 @@
-import UPDATE_FORM_FIELD from '../actions';
-
 const reducer = (state, action) => {
     switch (action.type) {
         case 'FETCH_VEHICLES_REQUEST':
