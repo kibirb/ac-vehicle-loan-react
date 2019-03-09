@@ -1,4 +1,4 @@
-# ac-vehicle-loan-react
+# AC vehicle loan react application
 AC react redux vehicle loan application.
 
 ## Instructions
