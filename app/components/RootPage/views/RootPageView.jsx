@@ -1,7 +1,6 @@
 import React from 'react';
 import { VehiclesList } from '../../vehiclesList';
 
-
 import { AddVehicle } from '../../addVehicle'
 import { PaymentPlan } from '../../paymentPlan'
 
